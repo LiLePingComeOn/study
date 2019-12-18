@@ -1,5 +1,7 @@
 package study;
 
 public class test2 {
-qwe
+	public static void main(String[] args){
+		
+	}
 }
