@@ -6,9 +6,10 @@ public class Test {
        System.out.println("HaHa");
        System.out.println("localhost");
        
-       System.out.println("��ͻ�ٴν��");
+       System.out.println("³åÍ»ÔÙ´Î½â¾ö");
 
           
          System.out.println("again"); 
+           System.out.println("third"); 
      }
 }
