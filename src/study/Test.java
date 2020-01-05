@@ -10,5 +10,7 @@ public class Test {
 
           
          System.out.println("again"); 
+         System.out.println("冲突再次解决");
+           System.out.println("third"); 
      }
 }
