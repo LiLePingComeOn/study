@@ -10,5 +10,6 @@ public class test2 {
 		System.out.println("fgs");
 		
 		System.out.println("third");
+		System.out.println("again");
 	}
 }
