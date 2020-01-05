@@ -6,6 +6,7 @@ public class test2 {
 		System.out.println("³åÍ»ÔÙ´Î½â¾ö");
 		System.out.println("third");
 		System.out.println("third");
+		System.out.println("third");
 		System.out.println("fgs");
 	}
 }
