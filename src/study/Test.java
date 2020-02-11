@@ -6,12 +6,14 @@ public class Test {
        System.out.println("HaHa");
        System.out.println("localhost");
        
-       System.out.println("³åÍ»ÔÙ´Î½â¾ö");
+       System.out.println("Â³Ã¥ÃÂ»Ã”Ã™Â´ÃŽÂ½Ã¢Â¾Ã¶");
 
           
          System.out.println("again"); 
 
-         System.out.println("��ͻ�ٴν��");
+         System.out.println("³åÍ»ÔÙ´Î½â¾ö");
            System.out.println("third"); 
+           System.out.println("solve!");
+         System.out.println("test commit");
      }
 }
