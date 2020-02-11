@@ -12,5 +12,6 @@ public class test2 {
 		System.out.println("third");
 		System.out.println("again");
 		System.out.println("third");
+		System.out.println("haha");
 	}
 }
